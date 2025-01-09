@@ -52,7 +52,7 @@ This app was created using **Prompt Engineering** to leverage the power of AI to
    - From the app drawer, users can toggle between **Light**, **Dark**, or **System Default** themes.
 
 6. **Accessing Social Links**:
-   - The app drawer includes links to my [LinkedIn](https://www.linkedin.com) and [GitHub](https://github.com) profiles. Feel free to connect! 🌍
+   - The app drawer includes links to my [LinkedIn](https://www.linkedin.com/in/chinmay-nerkar/) and [GitHub](https://github.com/Chinmaynkr) profiles. Feel free to connect! 🌍
 
 ## Getting Started 🚀
 
@@ -100,4 +100,4 @@ This project is licensed under the [MIT License](LICENSE). See the [LICENSE](LIC
 - Special thanks to the Flutter community and all the open-source tools and libraries used to create this app. 💖
 
 ### Stay Updated! 🔄
-Regularly check my GitHub for updates and new features for this app. If you like the app, feel free to star this repository to show your support! ⭐
+Regularly check my [GitHub](https://github.com/Chinmaynkr) for updates and new features for this app. If you like the app, feel free to star this repository to show your support! ⭐

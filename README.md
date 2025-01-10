@@ -25,7 +25,6 @@ This app was created using **Prompt Engineering** to leverage the power of AI to
   - **Total Investment**
   - **Timestamp** (when the entry was added)
 - **Theme Customization**: 🌗 Switch between **Light**, **Dark**, or **System Default** themes for a personalized app experience.
-- **Social Links**: 🔗 Quick access to my [LinkedIn](https://www.linkedin.com/in/chinmay-nerkar/) and [GitHub](https://github.com/Chinmaynkr) profiles from the app drawer.
 - **Overall Average Calculation**: 💹 The app displays the total invested amount and the average price across all purchases.
 
 ## How It Works 🛠️
